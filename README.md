@@ -1,5 +1,5 @@
 # Simple-MD5-Hash-Discord-Bot
-Discord bot to get the MD5 hash of a string
+Discord bot to get the MD5 hash of a string, written in Node JS
 
 Save the .js file
 Right click >> edit >> add the discord token of your bot
