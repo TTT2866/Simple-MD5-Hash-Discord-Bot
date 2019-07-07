@@ -12,3 +12,5 @@ node bot.js
 
 How to use..
 Prefix any message with ".md5" and it'll send you the hash
+
+![screenshot](https://i.gyazo.com/58600e8a3a6e5cfec7209f96ecec65bc.png)
